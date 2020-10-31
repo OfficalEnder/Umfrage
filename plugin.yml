@@ -1,0 +1,9 @@
+name: Umfrage
+version: 1.0
+author: EnderReturn
+main: frage.main.main
+
+commands:
+  uja:
+  unein:
+  umfrage:
